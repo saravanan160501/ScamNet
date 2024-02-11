@@ -291,7 +291,8 @@
             "microsoft.com"
         ],
         "hosts": [
-            "scamnet-privacy.netlify.app"
+            "scamnet-privacy.netlify.app",
+            "zappin-privacy.netlify.app",
         ],
         "tlds": [
             ".gov.sg",
