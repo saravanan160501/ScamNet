@@ -289,12 +289,12 @@
             "straitstimes.com.sg",
             "zdassets.com",
             "1.1.1.1",
-            "microsoft.com"
+            "microsoft.com",
             "apple.co"
         ],
         "hosts": [
             "scamnet-privacy.netlify.app",
-            "zappin-privacy.netlify.app",
+            "zappin-privacy.netlify.app"
         ],
         "tlds": [
             ".gov.sg",
