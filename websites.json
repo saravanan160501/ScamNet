@@ -286,7 +286,8 @@
             "microsoft.com",
             "apple.co",
             "github.com",
-            "businesstimes.com.sg"
+            "businesstimes.com.sg",
+            "scamadviser.com"
         ],
         "hosts": [
             "scamnet-privacy.netlify.app",
