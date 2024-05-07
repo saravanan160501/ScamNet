@@ -287,7 +287,8 @@
             "apple.co",
             "github.com",
             "businesstimes.com.sg",
-            "scamadviser.com"
+            "scamadviser.com",
+            "nextdns.io"
         ],
         "hosts": [
             "scamnet-privacy.netlify.app",
