@@ -288,7 +288,10 @@
             "github.com",
             "businesstimes.com.sg",
             "scamadviser.com",
-            "nextdns.io"
+            "nextdns.io",
+            "icloud.com",
+            "whatsapp.net",
+            "whatsapp.com"
         ],
         "hosts": [
             "scamnet-privacy.netlify.app",
