@@ -294,7 +294,7 @@
             "whatsapp.com"
         ],
         "hosts": [
-            "scamnet-privacy.netlify.app",
+            "scamnet.netlify.app",
             "zappin-privacy.netlify.app"
         ],
         "tlds": [
